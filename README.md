@@ -38,6 +38,9 @@
   <a href="https://kaamyak.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+     <a href="https://medium.com/@kaamyakpant_67666">
+  <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=Medium&logoColor=white">
+</a>
 </div>
 
  <hr/>
@@ -79,11 +82,10 @@
 
 <hr/>
 
-<br/>
 
 <div align="center">
 
----
+
 
 <img src="with_love.png">
 </div>
