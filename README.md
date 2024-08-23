@@ -16,9 +16,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Job Board**
+ 🔭 I’m currently working on **[Job Tracking App - JobTrail](https://github.com/rockingkp/job-trail.git)**
 
- 🎖️ Check out my **AWS Certified Associate Solutions Architect** Verified Badge [here](https://www.credly.com/badges/7897e5db-8dce-4b35-b95e-d0ecaa91f044/public_url)
+ 🎖️ Check out my **[AWS Certified Associate Solutions Architect](https://www.credly.com/badges/7897e5db-8dce-4b35-b95e-d0ecaa91f044/public_url)** Verification Badge 
  
  🌱 I’m currently learning **PostgreSQL, AWS, MongoDB, Express.js**
 
@@ -37,6 +37,10 @@
   </a>
   <a href="https://kaamyak.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+     <a href="https://leetcode.com/u/kaamyakpant/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+</a>
   </a>
      <a href="https://medium.com/@kaamyakpant_67666">
   <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=Medium&logoColor=white">
